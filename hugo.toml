@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = "https://AIgenomicnews.com/"
+publishDir = "docs"
 languageCode = 'en-us'
-title = 'AI Summarized Genomics News'
+title = 'AI-Summarized Genomics News'
 theme = 'ananke'

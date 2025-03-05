@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>{{ .Site.Title }}</h1>
+  <p>Daily genomics news summaries powered by AI.</p>
+  {{ range (where .Site.RegularPages "Section" "posts") }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Content }}</p>
+    </article>
+  {{ end }}
+{{ end }}

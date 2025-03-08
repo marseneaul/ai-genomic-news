@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on AI-Summarized Genomics News</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on AI-Summarized Genomics News</description>
+    <title>Posts on Genomics Digest</title>
+    <link>https://AIgenomicnews.com/posts/</link>
+    <description>Recent content in Posts on Genomics Digest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://AIgenomicnews.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/posts/genomics_news_20250305/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/genomics_news_20250305/</guid>
-      <description>&lt;h1 id=&#34;genomics-news-digest---march-05-2025&#34;&gt;Genomics News Digest - March 05, 2025&lt;/h1&gt;&#xA;&lt;p&gt;Test summary: Genomics news rocks!&lt;/p&gt;</description>
+      <title>Genomics News Digest - March 07, 2025</title>
+      <link>https://AIgenomicnews.com/posts/genomics_news_20250307_205002/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://AIgenomicnews.com/posts/genomics_news_20250307_205002/</guid>
+      <description>&lt;p&gt;In a groundbreaking study, researchers have dissected the genetic underpinnings of eight major psychiatric disorders, revealing a tangled web of genetic architecture that varies by sex. It&amp;rsquo;s like trying to solve a Rubik&amp;rsquo;s Cube in the dark, but with genes instead of colors. This could lead to more personalized mental health treatments, so maybe one day we&amp;rsquo;ll all be a little less crazy.&lt;/p&gt;&#xA;&lt;p&gt;Meanwhile, over 50,000 atrial fibrillation cases have been sequenced, uncovering a treasure trove of coding and structural variations that contribute to this heart condition. It&amp;rsquo;s like finding the genetic equivalent of a needle in a haystack, but with a lot more needles. This could pave the way for targeted therapies, so heart patients can keep their hearts in rhythm without missing a beat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

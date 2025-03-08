@@ -1,5 +1,5 @@
 baseURL = "https://AIgenomicnews.com/"
 publishDir = "docs"
-languageCode = 'en-us'
-title = 'AI-Summarized Genomics News'
-theme = 'ananke'
+languageCode = "en-us"
+title = "Genomics Digest"
+theme = "ananke"

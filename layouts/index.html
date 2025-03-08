@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <h1>Genomics News Posts</h1>
   <p>Daily genomics news summaries powered by AI.</p>
   {{ range (where .Site.RegularPages "Section" "posts") }}
     <article>
